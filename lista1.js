@@ -24,13 +24,13 @@ console.log(`O número é ${n2} e o triplo é ${triplo}.`);
 let nota1 = 10;
 let nota2 = 8;
 let media = (nota1+nota2)/2;
-console.log(`A primeira nota é ${nota1} e a segunda é ${nota2}, a media ente eles é ${media}.`);
+console.log(`A primeira nota é ${nota1} e a segunda é ${nota2}, a media entre eles é ${media}.`);
 
 // 6-Criar um progama para converter metros em centímetros.
 
 let n3 = 2;
 let n4 = (n3*100);
-console.log(`${n3} metros é igual a ${n4} centímetros.`);
+console.log(`${n3} metros é igual a ${n4} centímetros.`); 
 
 // 7-Criar um progama para mostrar o antecessor e o sucessor de um número.
 
